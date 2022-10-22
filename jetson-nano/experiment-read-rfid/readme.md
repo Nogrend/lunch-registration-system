@@ -12,6 +12,7 @@ RST	|Pin 22
 
 
 ```mermaid
-graph TA-->B;
+graph TD
+A-->B;
 A-->C;
 ```
