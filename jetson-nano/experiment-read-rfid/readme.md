@@ -30,3 +30,5 @@ sudo usermod -a -G tty $USER
 ```
 sudo usermod -a -G dialout $USER
 ```
+Maybe an example?
+https://bitbucket.org/crankdevde/timetrackingpi_old/src/master/www/
